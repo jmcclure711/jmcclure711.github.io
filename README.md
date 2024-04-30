@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm John</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is John McClure and I'm a Data Analyst, from New York</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Analysis Tools I'm Experienced In</h2>
 
 ###
 
@@ -27,11 +27,9 @@
   <img width="12" />
   <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/019a7085-58cd-4bc1-a9ee-6f4758a14e4f" height="40" alt="SQLite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/00d41e15-0ae7-4d59-8f9e-a45276d13032" height="40" alt="RStudio logo"  />
 </div>
 
 ###
 
 
-![sqlite-svgrepo-com (1)](https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/019a7085-58cd-4bc1-a9ee-6f4758a14e4f)
-![tableau-icon-svgrepo-com](https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/44a2d90f-1306-49e3-9980-71563e43ac43)
