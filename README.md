@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ I have analysis experience and have completed the Google Data Analytics Career Certificate<br>📚 I'm currently learning to use R with RStudio for analysis<br>🎯 Goals: To find a career in Data Analytics and continue to expand my Career Portfolio<br>🎲 Fun fact: I can solve a Rubik's Cube in a minute</p>
 
 ###
 
