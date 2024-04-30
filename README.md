@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is John McClure and I'm a Data Analyst, from New York</p>
+<p align="left">My name is John McClure and I'm a Data Analyst from New York</p>
 
 ###
 
