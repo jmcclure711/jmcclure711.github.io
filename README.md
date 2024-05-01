@@ -31,7 +31,8 @@
 </div>
 - Tableau
 - Microsoft Excel/Google Sheets
-- 
+- SQL: Google BigQuery & SQLite
+- R: RStudio
 ###
 
 ## Projects
