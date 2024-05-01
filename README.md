@@ -29,7 +29,9 @@
   <img width="12" />
   <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/00d41e15-0ae7-4d59-8f9e-a45276d13032" height="40" alt="RStudio logo"  />
 </div>
-
+- Tableau
+- Microsoft Excel/Google Sheets
+- 
 ###
 
 ## Projects
