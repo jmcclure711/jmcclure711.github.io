@@ -36,3 +36,9 @@
 [LinkedIn](https://www.linkedin.com/in/john-jack-mcclure-babbbb1b7/)
 
 [Tableau Public Profile](https://public.tableau.com/app/profile/john.mcclure8534/vizzes)
+
+###
+
+## Projects
+
+[Google Capstone Case Study](https://github.com/jmcclure711/Google_Cyclistic_Case_Study)
