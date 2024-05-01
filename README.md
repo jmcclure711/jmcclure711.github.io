@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/44a2d90f-1306-49e3-9980-71563e43ac43" height="40" alt="tableau logo"  />
   <img width="12" />
-  <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/09810b4a-3257-4a2b-b387-58c8ba3ea477" height="40" alt="typescript logo"  />
+  <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/09810b4a-3257-4a2b-b387-58c8ba3ea477" height="40" alt="microsoft excel logo"  />
   <img width="12" />
   <img src="https://github.com/jmcclure711/jmcclure711.github.io/assets/166648421/ba49c178-c488-4577-a22b-51cac04dc59a" height="40" alt="BigQuery logo"  />
   <img width="12" />
