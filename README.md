@@ -43,6 +43,7 @@
 ## Projects
 
 [Google Capstone Case Study](https://github.com/jmcclure711/Google_Cyclistic_Case_Study)
+[SQL for Data Science](https://github.com/jmcclure711/SQL_for_Data_Science)
 
 ###
 
